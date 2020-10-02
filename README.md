@@ -13,5 +13,3 @@ I'm currently learning:
 * Docker & Azure
 * Airflow
 * Machine Learning
-
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lb930&layout=compact"> </img>
