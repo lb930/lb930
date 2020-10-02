@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lb930">
+<img align='right' ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lb930&theme=radical&title_color=8E2DE2&text_color=fff)>
 
 ### Hi, I'm Luisa! :wave:
 
