@@ -8,7 +8,7 @@ My weapons of choice are:
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Alteryx](https://img.shields.io/badge/-Alteryx-333333?style=flat&logo=Alteryx) 
 - 📈 &nbsp;
-  ![Tableau](https://img.shields.io/badge/-Tableau-ffc038?style=flat&logo=Tableau)
+  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
