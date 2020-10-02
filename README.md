@@ -1,5 +1,3 @@
-<img align='right' ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lb930&theme=radical&title_color=8E2DE2&text_color=fff)>
-
 ### Hi, I'm Luisa! :wave:
 
 I'm a Digital Analytics Manager at [adidas](https://www.adidas-group.com/en/) and work with Python, Alteryx and Tableau. I publish my data visualisations on [Tableau Public](https://public.tableau.com/profile/luisa6565#!/?newProfile=&activeTab=0) and my [blog](https://lb930.github.io/Data-Science-Blog/).
