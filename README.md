@@ -1,6 +1,15 @@
-### Hi, I'm Luisa! :wave:
+### Hi, I'm Luisa! :woman_technologist_light_skin_tone:
 
-I'm a Digital Analytics Manager at [adidas](https://www.adidas-group.com/en/) and work with Python, Alteryx and Tableau. I publish my data visualisations on [Tableau Public](https://public.tableau.com/profile/luisa6565#!/?newProfile=&activeTab=0) and my [blog](https://lb930.github.io/Data-Science-Blog/).
+I'm a Digital Analytics Manager at [adidas](https://www.adidas-group.com/en/). I love all things data and publish my data visualisations on [Tableau Public](https://public.tableau.com/profile/luisa6565#!/?newProfile=&activeTab=0) and my [blog](https://lb930.github.io/Data-Science-Blog/).
+
+My weapons of choice are:
+
+* :snake: Python (PyData stack) 
+* :computer: Alteryx 
+* :chart_with_upwards_trend:Tableau 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lb930&theme=radical&title_color=8E2DE2&text_color=fff)>
 
 
 <!--
