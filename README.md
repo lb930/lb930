@@ -9,7 +9,7 @@ Tech Stack:
   ![Alteryx](https://img.shields.io/badge/-Alteryx-333333?style=flat&logo=Alteryx) 
 - 📈 &nbsp;
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
-- 🛢 &nbsp;
+- 🗄️ &nbsp;
   &nbsp;![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
