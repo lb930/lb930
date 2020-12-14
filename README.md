@@ -6,13 +6,15 @@ Tech Stack:
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Alteryx](https://img.shields.io/badge/-Alteryx-333333?style=flat&logo=Alteryx) 
-- 📈 &nbsp;
+- ♾️ &nbsp;
+  ![Alteryx](https://img.shields.io/badge/-Alteryx-333333?style=flat&logo=Alteryx)
+- 📊 &nbsp;
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
 - 🗄️ &nbsp;
-  &nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=Postgresql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=Postgresql)
+- 🐋 &nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  
