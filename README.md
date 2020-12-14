@@ -11,7 +11,7 @@ Tech Stack:
 - 📊 &nbsp;
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
 - 🗄️ &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=Postgresql)
+   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=Postgresql)
 - 🐋 &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 - ⚙️ &nbsp;
