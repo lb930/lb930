@@ -1,6 +1,6 @@
 ### Hi, I'm Luisa! :wave:
 
-I'm a Digital Analytics Manager at [adidas](https://www.adidas-group.com/en/) working on data engineering projects. I love all things data and automating processes. I also publish my data visualisations on [Tableau Public](https://public.tableau.com/profile/luisa6565#!/?newProfile=&activeTab=0).
+I'm a Digital Analytics Manager at [adidas](https://www.adidas-group.com/en/) working on data engineering projects. I love all things data and automating processes and publish my data visualisations on [Tableau Public](https://public.tableau.com/profile/luisa6565#!/?newProfile=&activeTab=0).
 
 Tech Stack:
 
