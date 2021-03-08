@@ -2,7 +2,7 @@
 
 I'm a Digital Analytics Manager at [adidas](https://www.adidas-group.com/en/) working on data engineering projects. I love all things data and automating processes and publish my data visualisations on [Tableau Public](https://public.tableau.com/profile/luisa6565#!/?newProfile=&activeTab=0).
 
-Tech Stack:
+#### Tech Stack:
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -10,11 +10,11 @@ Tech Stack:
   ![Alteryx](https://img.shields.io/badge/-Alteryx-333333?style=flat&logo=Alteryx)
 - ☁️ &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
-- 🗄️ &nbsp;
+- 🛢 &nbsp;
   ![Exasol](https://img.shields.io/badge/-Exasol-333333?style=flat&logo=Exasol)
 - 🐋 &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-- 📊 &nbsp;
+- 📈 &nbsp;
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
