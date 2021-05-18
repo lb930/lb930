@@ -12,6 +12,7 @@ I'm a Digital Analytics Manager at [adidas](https://www.adidas-group.com/en/) wo
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
 - 🛢 &nbsp;
   ![Exasol](https://img.shields.io/badge/-Exasol-333333?style=flat&logo=Exasol)
+  ![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
 - 🐋 &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 - 📈 &nbsp;
