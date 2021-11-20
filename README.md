@@ -7,12 +7,14 @@ I'm a Digital Analytics Manager at [adidas](https://www.adidas-group.com/en/) wo
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - ♾️ &nbsp;
+  ![dbt](https://img.shields.io/badge/-dbt-333333?style=flat&logo=dbt)
   ![Alteryx](https://img.shields.io/badge/-Alteryx-333333?style=flat&logo=Alteryx)
 - ☁️ &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
 - 🛢 &nbsp;
-  ![Exasol](https://img.shields.io/badge/-Exasol-333333?style=flat&logo=Exasol)
+  ![Snowflake](https://img.shields.io/badge/-snowflake-333333?style=flat&logo=snowflake)
   ![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
+  ![Exasol](https://img.shields.io/badge/-Exasol-333333?style=flat&logo=Exasol)
 - 🐋 &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 - 📈 &nbsp;
