@@ -12,7 +12,6 @@
 - 🛢 &nbsp;
   ![Snowflake](https://img.shields.io/badge/-snowflake-333333?style=flat&logo=snowflake)
   ![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
-  ![Exasol](https://img.shields.io/badge/-Exasol-333333?style=flat&logo=Exasol)
 - 📈 &nbsp;
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
 - ⚙️ &nbsp;
